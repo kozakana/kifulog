@@ -1,0 +1,4 @@
+:bq_option:
+  :project: bqprojectname
+:database_name: kifulogdatabase
+:table_name: states
